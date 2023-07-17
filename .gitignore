@@ -119,5 +119,5 @@ fabric.properties
 # 개인 파일
 Deep Learning/Introduction to PyTorch/data
 Deep Learning/Loss Function/*.pdf
-Machine Learning/data
-Machine Learning/*.csv
+Machine Learning/2023 전력사용량 예측 AI 경진대회/*.csv
+Machine Learning/2023 전력사용량 예측 AI 경진대회/data
