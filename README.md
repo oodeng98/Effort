@@ -1,2 +1,2 @@
-# PyTorch-Practice
-파이토치 연습
+# Effort
+이것저것 기록
