@@ -117,7 +117,7 @@ fabric.properties
 # End of https://www.toptal.com/developers/gitignore/api/pycharm
 
 # 개인 파일
-Deep Learning/Introduction to PyTorch/data
-Deep Learning/Loss Function/*.pdf
-Machine Learning/2023 전력사용량 예측 AI 경진대회/*.csv
-Machine Learning/2023 전력사용량 예측 AI 경진대회/data
+Deep_Learning/Introduction_to_PyTorch/data
+Deep_Learning/Loss_Function/*.pdf
+Machine_Learning/2023_전력사용량_예측_AI_경진대회/*.csv
+Machine_Learning/2023_전력사용량_예측_AI_경진대회/data
