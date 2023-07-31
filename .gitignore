@@ -121,3 +121,5 @@ Deep_Learning/Introduction_to_PyTorch/data
 Deep_Learning/Loss_Function/*.pdf
 Machine_Learning/2023_전력사용량_예측_AI_경진대회/*.csv
 Machine_Learning/2023_전력사용량_예측_AI_경진대회/data
+Machine_Learning/2023_전력사용량_예측_AI_경진대회/model_copy.ipynb
+
