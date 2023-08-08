@@ -3,7 +3,7 @@ import random
 from django.views.decorators.csrf import csrf_exempt
 
 
-
+# 말 그대로 보여지는(view) 부분을 담당하는 파일
 topics = [
     {'id': 1, 'title': 'Routing', 'body': 'Routing is ..'}, 
     {'id': 2, 'title': 'View', 'body': 'View is ..'}, 

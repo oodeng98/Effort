@@ -17,13 +17,8 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
-# http://127.0.0.1/
-# http://127.0.0.1/app/
 
-# http://127.0.0.1/create/
-# http://127.0.0.1/read/1/
-
-urlpatterns = [
+urlpatterns = [  # URL 패턴별로 그 패턴을 담당할 '파일'을 지정
     path('admin/', admin.site.urls),
-    path('', include('myapp.urls'))
+    path('', include('myapp.urls'))  # 127.0.0.1:8000 으로 시작하는 모든 URL은 myapp 폴더의 urls.py 파일에서 관리할 것
 ]
