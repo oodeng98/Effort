@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-with open('setting.json', 'r') as f:
+with open('C:/Users/ooden/OneDrive - 성균관대학교/바탕 화면/프로그래밍/GitHub/Effort/Back_End/myproject/myproject/setting.json', 'r') as f:
     setting = json.load(f)
 SECRET_KEY = setting['SECRET_KEY']
 
